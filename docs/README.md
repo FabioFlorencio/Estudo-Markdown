@@ -3,6 +3,8 @@ Este documento descreve como escrever em Markdown
 
 Slides teste:    [Slides](Produto.pdf)
 
+Veja como usá-lo neste link: [markdown](docs/)
+
 ## Referências
 
 * Site oficial do markdown
